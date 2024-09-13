@@ -1,4 +1,5 @@
-# HIT140 FOUNDATIONS OF DATA SCIENCE - Assessment 2
+# HIT140 FOUNDATIONS OF DATA SCIENCE 
+## Assessment 2
 
 ### Lecturer:
 - **Yakub Sebastian**
